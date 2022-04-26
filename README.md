@@ -1,4 +1,7 @@
-### Hi there 👋
+![](https://github-profile-trophy.vercel.app/?username=paristsai&theme=flat&column=9)
+![Git Stats](https://github-readme-stats.vercel.app/api?username=gcy&show_icons=true&theme=prussian)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paristsai&show_icons=true&hide_border=true&theme=dark&hide=CSS,JavaScript,XSLT)
+
 
 <!--
 **paristsai/paristsai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
